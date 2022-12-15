@@ -1,13 +1,9 @@
 # C - Binary trees
 
-![image](https://user-images.githubusercontent.com/32038582/207987097-738b89fa-ae94-43bd-8f5a-212a6620d978.png)
+![image](https://user-images.githubusercontent.com/32038582/207987507-dea4413f-57cb-491b-9e5e-a9d8bb4dfff6.png)
+
 
 A binary tree is a rooted tree that is also an ordered tree (a.k.a. plane tree) in which every node has at most two children. A rooted tree naturally imparts a notion of levels (distance from the root), thus for every node a notion of children may be defined as the nodes connected to it a level below. Ordering of these children
-
-## Tests :heavy_check_mark:
-
-* [tests](./tests): Folder of test files for all tasks. Provided by Holberton
-School.
 
 ## Helper File :raised_hands:
 
